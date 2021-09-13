@@ -1,0 +1,1 @@
+http://127.0.0.1/phpmyadmin/sql.php?db=pokedex&table=pokemons&pos=0
